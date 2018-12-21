@@ -1,2 +1,0 @@
-    user_dict_path = os.path.join(root_filepath, "f_seg/user_dict.txt")
-    jieba.load_userdict(user_dict_path)
