@@ -6,8 +6,8 @@
 ![味道分析](https://github.com/CarryChang/UGC-Analysis/blob/master/pic/味道.png)
 #### 本软件特点
 >1. 	改造了网络爬虫，使用fake_useragent加入随机轮换模拟浏览器header来确保爬虫的稳定和高效爬取。
+![情感分析](https://github.com/CarryChang/UGC-Analysis/blob/master/pic/采集到的数据样式.png)
 >2. 	利用Snownlp作为评论情感分析的库，直接在输出框输出情感值。
 ![情感分析](https://github.com/CarryChang/UGC-Analysis/blob/master/pic/%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90.png)
->3.	  使用tkinter加上多线程来制作操作界面，结合使用matplotlib，一键即可画出精美的统计图。
->4.	  利用词典的方式找出主题，便于实时对评论进行筛选。
+>3. 	利用词典的方式找出主题，便于实时对评论进行筛选。
 ![菜品分析](https://github.com/CarryChang/UGC-Analysis/blob/master/pic/统计.png)
